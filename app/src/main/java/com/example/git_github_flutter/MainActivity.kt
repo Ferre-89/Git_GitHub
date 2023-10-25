@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Agrego segundo Greeting CAPDESIS")
+                    Greeting("Agrego segundo Greeting")
 
                     Greeting("Comenzando con lo bueno de GitHub, vamo y vamo")
 
