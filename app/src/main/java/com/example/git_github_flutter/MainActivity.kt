@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Agrego segundo Greeting")
 
-                    Greeting("Comenzando con lo bueno de GitHub")
+                    Greeting("Comenzando con lo bueno de GitHub, vamo y vamo")
 
                 }
             }
