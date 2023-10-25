@@ -22,11 +22,10 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Curso Gitgit log" +
-                            "Hub")
-
-
                     Greeting("Agrego segundo Greeting")
+
+                    Greeting("Comenzando con lo bueno de GitHub")
+
                 }
             }
         }
