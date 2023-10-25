@@ -24,6 +24,9 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Curso Gitgit log" +
                             "Hub")
+
+
+                    Greeting("Agrego segundo Greeting")
                 }
             }
         }
