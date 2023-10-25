@@ -26,6 +26,7 @@ class MainActivity : ComponentActivity() {
 
                     Greeting("Comenzando con lo bueno de GitHub, vamo y vamo")
 
+                     Greeting("Siguiendo con el curso")
                 }
             }
         }
