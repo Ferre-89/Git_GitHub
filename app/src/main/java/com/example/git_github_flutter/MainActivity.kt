@@ -46,6 +46,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     Git_github_flutterTheme {
         Greeting("Android")
-        Greeting("Android MAIN")
+        Greeting("Android 2 PRUEBAS")
     }
 }
