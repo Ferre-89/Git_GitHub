@@ -47,8 +47,9 @@ fun GreetingPreview() {
     Git_github_flutterTheme {
         Greeting("Android gustando el curso")
         Greeting("Android gustando el curso 3")
-        Greeting("Android gustando el curso 3 lalala")
 
+        Greeting("Android gustando el curso")
+        Greeting("Android gustando el curso 4")
 
     }
 }
