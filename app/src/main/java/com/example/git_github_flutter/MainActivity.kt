@@ -49,7 +49,6 @@ fun GreetingPreview() {
         Greeting("Android gustando el curso 3")
 
         Greeting("Android gustando el curso")
-        Greeting("Android gustando el curso 4")
-
+        Greeting("Android gustando el curso 5")
     }
 }
