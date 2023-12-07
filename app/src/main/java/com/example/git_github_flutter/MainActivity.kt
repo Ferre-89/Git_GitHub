@@ -57,6 +57,9 @@ fun GreetingPreview() {
         Greeting("Android gustando dsadsadasd cursodasdsadasas")
         Greeting("Android gustando dsadsadasd dasdasdasdasas")
         Greeting("Android gustando dsadsadasd dasdasdasdasas test")
+        Greeting("Android gustando dsadsadasd dasdasdasdasas test 2")
+
+        Greeting("Android gustando dsadsadasd dasdasdasdasas test 3")
 
 
     }
